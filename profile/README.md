@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 O **AirWatch** é uma plataforma que permite que cidadãos, prefeituras e órgãos ambientais acompanhem a qualidade do ar em tempo real.  
 Utilizamos dados de satélites (Sentinel-5P / ESA) via APIs públicas gratuitas (OpenAQ, Open-Meteo) e complementamos com sensores IoT locais (ESP32).
@@ -25,7 +25,7 @@ A poluição do ar mata ~7 milhões de pessoas por ano (OMS). Dados existem, mas
 
 ---
 
-## 🎯 ODS atendidas
+## ODS atendidas
 
 - **ODS 3** – Saúde e bem-estar  
 - **ODS 11** – Cidades e comunidades sustentáveis  
@@ -33,7 +33,7 @@ A poluição do ar mata ~7 milhões de pessoas por ano (OMS). Dados existem, mas
 
 ---
 
-## 🧰 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 | Área | Tecnologias |
 |------|--------------|
@@ -47,7 +47,7 @@ A poluição do ar mata ~7 milhões de pessoas por ano (OMS). Dados existem, mas
 
 ---
 
-## 👥 Equipe – Solstício
+## Equipe – Solstício
 
 | Nome | RM | Turma |
 |------|----|-------|
@@ -59,7 +59,7 @@ A poluição do ar mata ~7 milhões de pessoas por ano (OMS). Dados existem, mas
 
 ---
 
-## 📂 Repositórios do projeto
+## Repositórios do projeto
 
 | Projeto | Link |
 |---------|------|
@@ -71,14 +71,14 @@ A poluição do ar mata ~7 milhões de pessoas por ano (OMS). Dados existem, mas
 
 ---
 
-## 🚀 Como acompanhar
+## Como acompanhar
 
 Este repositório (organizacional) é apenas o ponto de entrada.  
 Os códigos e documentações completas estão nos repositórios listados acima.
 
 ---
 
-## 📅 Cronograma (resumido)
+## Cronograma (resumido)
 
 | Período | Atividade |
 |---------|-----------|
@@ -90,7 +90,7 @@ Os códigos e documentações completas estão nos repositórios listados acima.
 
 ---
 
-## 📫 Contato
+## Contato
 
 Para dúvidas ou sugestões, abra uma *issue* no repositório correspondente ou entre em contato com a equipe.
 
