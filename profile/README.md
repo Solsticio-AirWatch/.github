@@ -63,11 +63,12 @@ A poluição do ar mata ~7 milhões de pessoas por ano (OMS). Dados existem, mas
 
 | Projeto | Link |
 |---------|------|
-| API Java (Spring) | *(em breve)* |
+| API Java (Spring) | [AirWatch-Java](https://github.com/Solsticio-AirWatch/AirWatch-Java_Back_End) |
 | API .NET | [AirWatch-dotnet](https://github.com/Solsticio-AirWatch/AirWatch-dotnet) |
 | App Mobile (React Native) | *(em breve)* |
 | IoT (ESP32 + Wokwi) | [AirWatch-IoT](https://github.com/Solsticio-AirWatch/AirWatch-IoT) |
 | Banco Oracle (PL/SQL) | *(em breve)* |
+| QA | *(em breve)* |
 
 ---
 
